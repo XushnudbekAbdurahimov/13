@@ -1,0 +1,56 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+.main{
+     width: 1440px;
+     height: 712px;
+     background-color: white;
+     margin: auto;
+     padding-top: 100px;
+     margin-top: 100px;
+}
+.left_div{
+     margin-top: 20px;
+     margin-left: 120px;
+}
+.left_div h1{
+     font-size: 79px;
+}
+.left_div .heading2{
+     color: rgba(30, 117, 112, 1);
+}
+.left_div p{
+     font-weight: 400;
+     font-size: 18px;
+     font-family: sans-serif;
+     width: 580px;
+     margin-top: 20px;
+}
+.div_button button{
+     width: 150px;
+     height: 45px;
+     background-color: rgba(255, 122, 36, 1);
+     color: white;
+     font-size: 18px;
+     margin-top: 30px;
+}
+.div_aylana{
+     margin-left: 408px;
+}
+.right_rasm{
+     margin-top: -650px;
+     margin-left: 820px;
+}
+body{
+     background-color: whitesmoke;
+}
+.right_bir{
+     margin-top: -400px;
+     margin-left: 1350px;
+}
+.div_button img{
+     margin-left: -30px;
+     margin-top: 10px;
+}
